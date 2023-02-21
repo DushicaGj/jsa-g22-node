@@ -1,0 +1,1 @@
+Solve Rubiks cube in 15 seconds.

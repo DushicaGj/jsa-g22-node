@@ -45,7 +45,7 @@ fs.writeFile('data.txt', 'HELLO WORLD.... Node... :(', (err) => {
 //     return new Promise((success, fail) => {
 //         fs.writeFile('data.txt', 'HELLO WORLD.... Node... :(', (err) => {
 //             if (err) return console.log(err);
-//             console.log('zapisote napraven');
+//             console.log('zapisot e napraven');
 //         });
 //     });
 // };
